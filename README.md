@@ -17,12 +17,15 @@
 
 # Copy to Clipboard: The generated password can be easily copied to the clipboard for immediate use.
 
-## Link to Deployed Application
-
-# PUT LINK HERE----------------
-
 # Screenshot of deployed link
 
-# PUT SS HERE---------
+# <img width="1728" alt="Screenshot 2023-11-07 at 2 34 39 PM" src="https://github.com/DaneLarsen1/Password-Generator/assets/147566371/0e8acbe2-2563-423f-a2f6-702d6eee5adc">
+
+
+## Link to Deployed Application
+
+# (https://danelarsen1.github.io/Password-Generator/)
+
+
 
 
