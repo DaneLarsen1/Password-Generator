@@ -3,7 +3,7 @@
 ## Created by: Dane Larsen
 # Info
 
-## The Password Generator Project is a simple and secure tool that allows users to generate strong, random passwords to enhance their online security. With the increasing importance of cybersecurity, having strong and unique passwords for different accounts and services is crucial. This project aims to make the process of generating secure passwords easy and accessible to everyone.
+## The Password Generator Project is a simple and secure tool that allows users to generate strong, random passwords to enhance their online safty and security. With the increasing importance of cybersecurity, having strong and unique passwords for different accounts and services is crucial. This project aims to make the process of generating secure passwords easy and accessible to everyone!!!
 
 
 
@@ -24,6 +24,8 @@
 # Link to Deployed Application
 
 ## (https://danelarsen1.github.io/Password-Generator/)
+
+## Since asked to provide more sources for our code I did use W3Schools for many questions about the assignment and also the bot we have aswell :)
 
 
 
